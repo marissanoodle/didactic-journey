@@ -1,0 +1,31 @@
+/* Marissa Arias-Smith
+CS 125H Lab 3
+2/9/2024*/
+
+/* the styles for the elements */
+body {
+	font-family: arial;
+    font-size: 125%;
+	text-indent: 4em;
+	font-weight: bold;
+}	
+h1, h2, h3 {
+	color: #2596be;
+	font-size: 175%;
+}
+/* the styles for the main content */
+body { 
+	background-image: url("https://wallpapercave.com/wp/wp2446975.jpg");
+	background-repeat: no-repeat;
+	background-clip: text;
+}
+text {
+    font-size: 175%;
+	text-indent: 4em;
+}
+]
+/*the styles for the footer*/
+footer p {
+	text-indent: 35em;
+	color: #2596be;
+}
